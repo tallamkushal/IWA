@@ -30,18 +30,18 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 		<fod.dir>fod</fod.dir>
-        <h2.version>2.0.202</h2.version>
+        <h2.version>2.0.206</h2.version>
         <passay.version>1.5.0</passay.version>
         <bootstrap.version>4.5.3</bootstrap.version>
         <jquery.version>3.5.1</jquery.version>
         <font-awesome.version>5.15.2</font-awesome.version>
         <chartjs.version>2.9.4</chartjs.version>
-        <axios.version>0.30.2</axios.version>
+        <axios.version>1.6.5</axios.version>
         <springdoc-openapi.version>1.8.0</springdoc-openapi.version>
         <jwt.version>0.12.0</jwt.version>
-        <jackson.version>2.13.3</jackson.version>
+        <jackson.version>2.13.4</jackson.version>
         <groovy.version>3.0.8</groovy.version>
-        <selenium.version>4.1.0</selenium.version>
+        <selenium.version>4.1.1</selenium.version>
         <junit.version>4.12</junit.version>
         <fortify.version>21.2.3</fortify.version>
         <skip.unit.tests>true</skip.unit.tests>
@@ -175,7 +175,7 @@
         <dependency>
             <groupId>com.vonage</groupId>
             <artifactId>client</artifactId>
-            <version>7.0.0</version>
+            <version>7.1.1</version>
         </dependency>
 
         <dependency>
@@ -216,7 +216,7 @@
         <dependency>
             <groupId>org.apache.maven.wagon</groupId>
             <artifactId>wagon-http</artifactId>
-            <version>3.5.1</version>
+            <version>3.5.3</version>
         </dependency>
 
         <dependency>
@@ -234,7 +234,7 @@
         <dependency>
 		    <groupId>org.apache.tika</groupId>
 		    <artifactId>tika-core</artifactId>
-		    <version>1.19.1</version>
+		    <version>1.20</version>
 		</dependency>
 		<dependency>
 		    <groupId>org.json</groupId>
