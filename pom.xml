@@ -39,7 +39,7 @@
         <axios.version>1.6.5</axios.version>
         <springdoc-openapi.version>1.8.0</springdoc-openapi.version>
         <jwt.version>0.12.0</jwt.version>
-        <jackson.version>2.13.4</jackson.version>
+        <jackson.version>2.20</jackson.version>
         <groovy.version>3.0.8</groovy.version>
         <selenium.version>4.1.1</selenium.version>
         <junit.version>4.12</junit.version>
